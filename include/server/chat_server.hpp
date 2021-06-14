@@ -31,4 +31,4 @@ private:
 	EventLoop *_loop;	// 指向事件循环对象的指针
 };
 
-#endif
+#endif  // CHAT_SERVER_H
